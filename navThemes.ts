@@ -1,8 +1,6 @@
 import { Theme } from "@react-navigation/native/lib/typescript/src/types"
 import COLOURS from "./colours"
 
-//TODO ISSUE IS WITH COLOR MODULE
-
 /*
 Initially used Color Module, however below issue arises on Android Only
     Module parse failed: Identifier directly after number (257:26)
