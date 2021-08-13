@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "maps",
-    "slug": "maps",
+    "name": "RSS Reader",
+    "slug": "rss-reader",
     "version": "1.0.0",
+    "description": "Read RSS Feeds.",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/adaptive-icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
